@@ -1,0 +1,1 @@
+// This file will be removed as we're using Netlify Functions with PostgreSQL
